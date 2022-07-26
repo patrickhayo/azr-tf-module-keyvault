@@ -1,6 +1,6 @@
-# azr-tf-module-template
+# azr-tf-module-keyvault
 
-[Terraform](https://www.terraform.io) Module to create **[NAME]** in Azure
+[Terraform](https://www.terraform.io) Module to create **KeyVault** in Azure
 
 <!-- BEGIN_TF_DOCS -->
 ## Prerequisites
